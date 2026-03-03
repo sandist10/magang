@@ -1,4 +1,4 @@
-<!doctype html>
+<!-- <!doctype html>
 <html lang="id">
 
 <head>
@@ -20,7 +20,8 @@
             </div>
             <nav class="p-4">
                 <a href="{{ route('dashboard') }}" class="block py-2 px-4 rounded hover:bg-slate-100">About</a>
-                <a href="{{ route('courses') }}" class="block py-2 px-4 rounded hover:bg-slate-100">Course</a>
+                <a href="{{ route('course') }}" class="block py-2 px-4 rounded hover:bg-slate-100">Course</a>
+                <a href="{{ route('about') }}" class="block py-2 px-4 rounded hover:bg-slate-100">About</a>
                 <a href="{{ route('settings') }}" class="block py-2 px-4 rounded hover:bg-slate-100">Setting</a>
                 <a href="{{ route('dosen') }}" class="block py-2 px-4 rounded hover:bg-slate-100">Dosen</a>
             </nav>
@@ -47,4 +48,4 @@
     </div>
 </body>
 
-</html>
+</html> -->
