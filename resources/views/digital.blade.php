@@ -66,13 +66,13 @@
                                                         <div class="hdmenu">
                                                             <ul class="nav navbar-nav" id="a313c55e835999cc0b345f6d1fdf151e7_MenuTop_001">
 
-                                                                <li class=" dropdown " id="Hln_2531"><a href="/p/17-1014.php?Lang=en" title="Click to go Site Map">Site Map</a></li>
+                                                                <li class=" dropdown " id="Hln_2531"><a href="https://www.instagram.com/p/DOiazGokmoE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" title="Click to go Site Map">Map Area</a></li>
 
                                                                 <li class=" dropdown " id="Hln_2532"><a href="https://surabaya.telkomuniversity.ac.id/" title="Click to go TEL-U">TEL-U</a></li>
 
                                                                 <!-- <li class=" dropdown " id="Hln_2533"><a href="/index.php?Lang=zh-tw" title="Click to go Chinese">Chinese</a></li> -->
 
-                                                                <li class=" dropdown " id="Hln_2534"><a href="/p/412-1014-2714.php?Lang=en" title="Click to go Contact">Contact</a></li>
+                                                                <!-- <li class=" dropdown " id="Hln_2534"><a href="/p/412-1014-2714.php?Lang=en" title="Click to go Contact">Contact</a></li> -->
 
                                                             </ul>
                                                         </div>
@@ -137,14 +137,14 @@
 
                                                                 <li class="  " id="Hln_2538" class="dropdown"><a href="laboratory" title="Click to go Laboratory" style="color:black;">Laboratory</a>
                                                                     <ul class="dropdown-menu" id="submenu1_2538">
-                                                                            <li class=" dropdown " id="Hln_7792"><a href="qbi" title="Click to go Quantitative Modelling for Business and Industry">Quantitative Modelling for Business and Industry</a></li>
-                                                                            <li class=" dropdown " id="Hln_3278"><a href="mansys" title="Click to go Manufacturing System">Manufacturing System</a></li>
-                                                                            <li class=" dropdown " id="Hln_7793"><a href="lsce" title="Click to go Logistic Supply Chain Enginering">Logistic Supply Chain Enginering</a></li>
-                                                                            <li class=" dropdown " id="Hln_7792"><a href="eid" title="Click to go Ergonomic and Innovation Design">Ergonomic and Innovation Design</a></li>
-                                                                            <li class=" dropdown " id="Hln_3278"><a href="se" title="Click to go Enterprise System">Enterprise System</a></li>
-                                                                            <li class=" dropdown " id="Hln_7793"><a href="em" title="Click to go Engineering Management">Engineering Management</a></li>
-                                                                            <li class=" dropdown " id="Hln_7793"><a href="digital" title="Click to go Digital Start-Up">Digital Start-Up</a></li>
-                                                                        </ul>
+                                                                        <li class=" dropdown " id="Hln_7792"><a href="qbi" title="Click to go Quantitative Modelling for Business and Industry">Quantitative Modelling for Business and Industry</a></li>
+                                                                        <li class=" dropdown " id="Hln_3278"><a href="mansys" title="Click to go Manufacturing System">Manufacturing System</a></li>
+                                                                        <li class=" dropdown " id="Hln_7793"><a href="lsce" title="Click to go Logistic Supply Chain Enginering">Logistic Supply Chain Enginering</a></li>
+                                                                        <li class=" dropdown " id="Hln_7792"><a href="eid" title="Click to go Ergonomic and Innovation Design">Ergonomic and Innovation Design</a></li>
+                                                                        <li class=" dropdown " id="Hln_3278"><a href="se" title="Click to go Enterprise System">Enterprise System</a></li>
+                                                                        <li class=" dropdown " id="Hln_7793"><a href="em" title="Click to go Engineering Management">Engineering Management</a></li>
+                                                                        <li class=" dropdown " id="Hln_7793"><a href="digital" title="Click to go Digital Start-Up">Digital Start-Up</a></li>
+                                                                    </ul>
                                                                 </li>
 
                                                                 <!-- <li class=" dropdown " id="Hln_2539" class="dropdown"><a role="button" aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)" title="Click to go Admission">Admission</a>
@@ -297,12 +297,21 @@
                                                                         </thead>
                                                                         <tbody>
                                                                             <tr>
-                                                                                <td colspan="1" rowspan="3" style="text-align: left; white-space: nowrap; width: 40%; background-color: rgb(255, 255, 255); vertical-align: top;"><img alt="p" height="367" src="./img/laboratory/qbi.jpg" style="float: left; " width="550" /></td>
+                                                                                <td colspan="1" rowspan="3" style="text-align: left; white-space: nowrap; width: 40%; background-color: rgb(255, 255, 255); vertical-align: top;">
+                                                                                    <img alt="p" height="367" src="./img/laboratory/digital.jpeg" style="float: left; " width="550" />
+                                                                                </td>
                                                                                 <td colspan="1" rowspan="3" style="text-align: left; vertical-align: top; width: 60%; background-color: rgb(255, 255, 255);">
-                                                                                    <p><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:0.875em;"><strong>Quantitative Modelling for Business and Industry (QBI)&nbsp;</strong></span><br />
-                                                                                            <span style="font-size:0.75em;">The Lean Systems Laboratory draws inspiration from corporate employee training facilities, fostering experiential vocational education.<br />
-                                                                                                Through hands-on toy assembly activities, students gain practical training and experience various techniques like material picking, feeding, and both push-type and pull-type assembly methods.<br />
-                                                                                                This immersive learning environment mirrors real-world experiences, ensuring students acquire valuable skills and knowledge.</span><span style="font-size:0.875em;"></span></span></p>
+                                                                                    <p>
+                                                                                        <span style="font-family:Arial,Helvetica,sans-serif;">
+                                                                                            <span style="font-size:0.875em;">
+                                                                                                <strong>Digital Start-Up (DIGITAL) - C 5.01&nbsp;</strong>
+                                                                                            </span><br />
+                                                                                            <span style="font-size:0.75em;">
+                                                                                                <strong> Bidang Fokus:</strong>Manajemen bisnis, ekonomi mikro dan makro, analisis biaya dan manfaat, inovasi dan pengembangan produk.<br>
+                                                                                                <strong> Tugas pokok:</strong> merencanakan, mengelola, dan mengawasi seluruh kegiatan di laboratorium komputer.<br>
+                                                                                                <strong> Fungsi:</strong> penanggung jawab terhadap penggunaan lab dan pelaporan kepada pimpinan.
+                                                                                            </span><span style="font-size:0.875em;"></span></span>
+                                                                                    </p>
                                                                                 </td>
                                                                             </tr>
                                                                         </tbody>
@@ -459,10 +468,10 @@
                                     </ul>
                                 </div>
                                 <div class="contact col-md-4">
-                                    <div class="footTitle">Quick Links</div>
+                                    <div class="footTitle"></div>
                                     <ul>
-                                        <li><a href="https://www.oia.ntust.edu.tw/home.php?Lang=En" title="Office of International Affairs">OIA</a></li>
-                                        <li><a href="https://www.ciie.org.tw/" title="CIIE">CIIE</a></li>
+                                        <li><a href="#" title="Office of International Affairs"></a></li>
+                                        <li><a href="#" title="CIIE"></a></li>
                                     </ul>
                                 </div>
                                 <div class="contact col-md-4">

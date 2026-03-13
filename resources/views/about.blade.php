@@ -252,7 +252,7 @@
                             <h1>Research Topics</h1>
                         </header>
                         <hr class="customize_hr"> -->
-                        <h2 style="background-color: yellow;">Ergonomic and Innovation Design (EID):</h2>
+                        <h2 style="background-color: ;">Ergonomic and Innovation Design (EID):</h2>
                         <p class="firstp_h2">The Manufacturing Systems and Ergonomics scientific sub-group integrates a
                             technical approach in managing and optimizing
                             production systems with ergonomic principles to create work systems
@@ -331,9 +331,13 @@
                     </div>
                     <div id="s8">
                         <h2>Engineering Management (EM):</h2>
-                        <p class="firstp_h2">p1</p>
-                        <p>p2</p>
-                        <p>p3</p>
+                        <p class="firstp_h2">The Engineering Management Research Group focuses on integrating engineering
+                             principles with management strategies to improve organizational performance and decision-making.
+                              The group explores areas such as project management, operations management, strategic planning,
+                               and innovation management through research, academic activities, and industry collaboration.
+                                By combining analytical approaches with practical applications, this research group aims to 
+                                develop effective solutions that support efficient engineering management and sustainable 
+                                organizational growth.</p>
                     </div>
                     <div id="s9">
                         <h2>Digital Start-Up (DIGITAL):</h2>

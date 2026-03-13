@@ -60,13 +60,13 @@
                                                                 <div class="hdmenu">
                                                                     <ul class="nav navbar-nav" id="a313c55e835999cc0b345f6d1fdf151e7_MenuTop_001">
 
-                                                                        <li class=" dropdown " id="Hln_2531"><a href="/p/17-1014.php?Lang=en" title="Click to go Site Map">Site Map</a></li>
+                                                                        <li class=" dropdown " id="Hln_2531"><a href="https://www.instagram.com/p/DOiazGokmoE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" title="Click to go Site Map">Map Area</a></li>
 
                                                                         <li class=" dropdown " id="Hln_2532"><a href="https://surabaya.telkomuniversity.ac.id/" title="Click to go TEL-U">TEL-U</a></li>
 
                                                                         <!-- <li class=" dropdown " id="Hln_2533"><a href="/index.php?Lang=zh-tw" title="Click to go Chinese">Chinese</a></li> -->
 
-                                                                        <li class=" dropdown " id="Hln_2534"><a href="/p/412-1014-2714.php?Lang=en" title="Click to go Contact">Contact</a></li>
+                                                                        <!-- <li class=" dropdown " id="Hln_2534"><a href="/p/412-1014-2714.php?Lang=en" title="Click to go Contact">Contact</a></li> -->
 
                                                                     </ul>
                                                                 </div>
@@ -453,24 +453,18 @@
                                                     </div>
                                                 </div> -->
                                                 </div>
-
+                                                <br>
                                                 <div id="Dyn_2_3" class="M4  ">
                                                     <div class="module module-cglist md_style1">
                                                         <div class="minner">
                                                             <header class="mt ">
-
                                                                 <h2 class="mt-title">Research Laboratories</h2>
                                                             </header>
                                                             <section class="mb">
                                                                 <div class="mcont">
                                                                     <div class="mpgdetail">
                                                                         <div class="meditor">
-                                                                            <p>
-                                                                                Lorem Ipsum is a type of placeholder text commonly used in the printing and web or graphic design industries. It's a pseudo-Latin text that has no meaningful content,
-                                                                                which makes it ideal for filling in the space where the final text will eventually go in a design layout.
-                                                                                The primary purpose of lorem ipsum is to demonstrate the visual elements of a document or design. Such as font,
-                                                                                typography, and layout, without distracting the viewer with actual readable text.
-                                                                            </p>
+                                                                            <br>
                                                                             <table align="left" border="0" cellpadding="4" cellspacing="1" style="width:1500px;">
                                                                                 <thead>
                                                                                     <tr>
@@ -500,10 +494,11 @@
                                                                                             <p style="margin-bottom:10px">
                                                                                                 <span style="font-family:Arial,Helvetica,sans-serif;">
                                                                                                     <span style="font-size:0.625em;">
-                                                                                                        This lab focuses on delivering comprehensive perspectives to
-                                                                                                        enterprises in establishing robust warranty chain management systems. Research areas encompass
-                                                                                                        warranty management practices, product reliability engineering, maintenance modeling, and
-                                                                                                        sustainable design.
+                                                                                                        Laboratory of Quantitative Modelling for Business and Industry is dedicated to the development and application
+                                                                                                        of quantitative methods to support decision-making in business and industrial sectors. The laboratory focuses
+                                                                                                        on integrating data analysis, mathematical modeling, and analytical tools to solve complex real-world problems.
+                                                                                                        Through research, collaboration, and innovation, the laboratory aims to provide valuable insights that contribute
+                                                                                                        to the advancement of business strategies and industrial efficiency.
                                                                                                     </span>
                                                                                                 </span>
                                                                                             </p>
@@ -522,7 +517,7 @@
                                                                                                 </span>
                                                                                             </strong>
                                                                                             <br>
-                                                                                            <img src="#">
+                                                                                            <img src="/img/laboratory/coming soon.png">
                                                                                             <br>
                                                                                             <strong style="font-size: 0.75em;">
                                                                                                 <span style="line-height:23.65pt">Supervisor: Aufar (ketua/kalab)</span>
@@ -534,10 +529,12 @@
                                                                                             <p style="margin-bottom:10px">
                                                                                                 <span style="font-family:Arial,Helvetica,sans-serif;">
                                                                                                     <span style="font-size:0.625em;">
-                                                                                                        This lab focuses on delivering comprehensive perspectives to
-                                                                                                        enterprises in establishing robust warranty chain management systems. Research areas encompass
-                                                                                                        warranty management practices, product reliability engineering, maintenance modeling, and
-                                                                                                        sustainable design.
+                                                                                                        Laboratory of Manufacturing System is established to support learning, research, and innovation in
+                                                                                                        the field of manufacturing processes and production systems. The laboratory provides facilities for
+                                                                                                        students and researchers to understand how manufacturing operations are designed, managed, and
+                                                                                                        optimized to improve efficiency and productivity. Through practical activities, research projects,
+                                                                                                        and industry-oriented studies, this laboratory aims to develop knowledge and solutions that support
+                                                                                                        the advancement of modern manufacturing systems.
                                                                                                     </span>
                                                                                                 </span>
                                                                                             </p>
@@ -556,7 +553,7 @@
                                                                                                 </span>
                                                                                             </strong>
                                                                                             <br>
-                                                                                            <img src="#">
+                                                                                            <img src="/img/laboratory/coming soon.png">
                                                                                             <br>
                                                                                             <strong style="font-size: 0.75em;">
                                                                                                 <span style="line-height:23.65pt">Supervisor: Desita (ketua/kalab)</span>
@@ -568,10 +565,11 @@
                                                                                             <p style="margin-bottom:10px">
                                                                                                 <span style="font-family:Arial,Helvetica,sans-serif;">
                                                                                                     <span style="font-size:0.625em;">
-                                                                                                        This lab focuses on delivering comprehensive perspectives to
-                                                                                                        enterprises in establishing robust warranty chain management systems. Research areas encompass
-                                                                                                        warranty management practices, product reliability engineering, maintenance modeling, and
-                                                                                                        sustainable design.
+                                                                                                        Laboratory of Logistic Supply Chain Engineering focuses on the study and development of efficient logistics
+                                                                                                        and supply chain systems. The laboratory provides a platform for students and researchers to explore concepts,
+                                                                                                        methods, and technologies that support the planning, management, and optimization of supply chain activities.
+                                                                                                        Through research, practical learning, and collaboration with industry, this laboratory aims to contribute to
+                                                                                                        improving logistics performance and supporting sustainable business operations.
                                                                                                     </span>
                                                                                                 </span>
                                                                                             </p>
@@ -602,10 +600,11 @@
                                                                                             <p style="margin-bottom:10px">
                                                                                                 <span style="font-family:Arial,Helvetica,sans-serif;">
                                                                                                     <span style="font-size:0.625em;">
-                                                                                                        This lab focuses on delivering comprehensive perspectives to
-                                                                                                        enterprises in establishing robust warranty chain management systems. Research areas encompass
-                                                                                                        warranty management practices, product reliability engineering, maintenance modeling, and
-                                                                                                        sustainable design.
+                                                                                                        Laboratory of Ergonomic and Innovation Design focuses on the integration of ergonomics principles and
+                                                                                                        innovative design to improve human comfort, safety, and productivity in various systems and products.
+                                                                                                        The laboratory provides a space for students and researchers to develop creative solutions through research,
+                                                                                                        experimentation, and user-centered design approaches. Through collaboration and innovation, this laboratory
+                                                                                                        aims to create designs that are functional, efficient, and aligned with human needs.
                                                                                                     </span>
                                                                                                 </span>
                                                                                             </p>
@@ -636,10 +635,11 @@
                                                                                             <p style="margin-bottom:10px">
                                                                                                 <span style="font-family:Arial,Helvetica,sans-serif;">
                                                                                                     <span style="font-size:0.625em;">
-                                                                                                        This lab focuses on delivering comprehensive perspectives to
-                                                                                                        enterprises in establishing robust warranty chain management systems. Research areas encompass
-                                                                                                        warranty management practices, product reliability engineering, maintenance modeling, and
-                                                                                                        sustainable design.
+                                                                                                        Laboratory of Enterprise System focuses on the development and implementation of integrated information
+                                                                                                        systems that support business processes within organizations. The laboratory provides a learning and research
+                                                                                                        environment where students and researchers can explore enterprise technologies, system integration, and digital
+                                                                                                        transformation in modern businesses. Through practical activities and research initiatives, this laboratory aims
+                                                                                                        to enhance understanding of enterprise solutions that improve organizational efficiency and decision-making.
                                                                                                     </span>
                                                                                                 </span>
                                                                                             </p>
@@ -670,10 +670,11 @@
                                                                                             <p style="margin-bottom:10px">
                                                                                                 <span style="font-family:Arial,Helvetica,sans-serif;">
                                                                                                     <span style="font-size:0.625em;">
-                                                                                                        This lab focuses on delivering comprehensive perspectives to
-                                                                                                        enterprises in establishing robust warranty chain management systems. Research areas encompass
-                                                                                                        warranty management practices, product reliability engineering, maintenance modeling, and
-                                                                                                        sustainable design.
+                                                                                                        Laboratory of Engineering Management focuses on the integration of engineering principles with management
+                                                                                                        strategies to support effective decision-making and organizational performance. The laboratory provides
+                                                                                                        opportunities for students and researchers to explore project management, operational planning, and strategic
+                                                                                                        management within engineering environments. Through research, practical learning, and collaboration, this laboratory
+                                                                                                        aims to develop innovative solutions that enhance efficiency, productivity, and sustainable management practices.
                                                                                                     </span>
                                                                                                 </span>
                                                                                             </p>
@@ -704,10 +705,11 @@
                                                                                             <p style="margin-bottom:10px">
                                                                                                 <span style="font-family:Arial,Helvetica,sans-serif;">
                                                                                                     <span style="font-size:0.625em;">
-                                                                                                        This lab focuses on delivering comprehensive perspectives to
-                                                                                                        enterprises in establishing robust warranty chain management systems. Research areas encompass
-                                                                                                        warranty management practices, product reliability engineering, maintenance modeling, and
-                                                                                                        sustainable design.
+                                                                                                        Laboratory of Digital Start-Up is designed to support the development of innovative digital business
+                                                                                                        ideas and entrepreneurial skills among students and researchers. The laboratory provides a collaborative
+                                                                                                        environment where technology, creativity, and business strategies are combined to create digital solutions
+                                                                                                        and start-up initiatives. Through experimentation, mentoring, and project development, this laboratory aims
+                                                                                                        to foster innovation and encourage the growth of sustainable digital enterprises.
                                                                                                     </span>
                                                                                                 </span>
                                                                                             </p>
@@ -877,10 +879,10 @@
                                             </ul>
                                         </div>
                                         <div class="contact col-md-4">
-                                            <div class="footTitle">Quick Links</div>
+                                            <div class="footTitle"></div>
                                             <ul>
-                                                <li><a href="https://www.oia.ntust.edu.tw/home.php?Lang=En" title="Office of International Affairs">OIA</a></li>
-                                                <li><a href="https://www.ciie.org.tw/" title="CIIE">CIIE</a></li>
+                                                <li><a href="#" title="Office of International Affairs"></a></li>
+                                                <li><a href="#" title="CIIE"></a></li>
                                             </ul>
                                         </div>
                                         <div class="contact col-md-4">
